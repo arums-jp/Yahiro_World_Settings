@@ -1,0 +1,35 @@
+# MCP設定ファイル（API Keyを含むため除外）
+.mcp.json
+
+# 環境変数ファイル
+.env
+.env.local
+
+# Python仮想環境
+venv/
+env/
+.venv/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 一時ファイル
+*.tmp
+*.bak
+*.log
