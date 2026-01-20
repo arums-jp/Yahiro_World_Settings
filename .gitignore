@@ -1,6 +1,9 @@
 # MCP設定ファイル（API Keyを含むため除外）
 .mcp.json
 
+# Claude Code設定ファイル（API Keyを含む可能性があるため除外）
+.claude/settings.local.json
+
 # チェック状態ファイル（ローカル管理）
 .consistency-check.json
 
