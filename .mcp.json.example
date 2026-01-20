@@ -7,6 +7,7 @@
       ],
       "env": {
         "OPENAI_API_KEY": "your-openai-api-key-here",
+        "OPENAI_MODEL": "gpt-5-nano",
         "YAHIRO_SETTINGS_PATH": "C:\\Users\\arums\\OneDrive\\デスクトップ\\Projects\\小説の設定"
       }
     }

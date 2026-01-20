@@ -1,6 +1,9 @@
 # MCP設定ファイル（API Keyを含むため除外）
 .mcp.json
 
+# チェック状態ファイル（ローカル管理）
+.consistency-check.json
+
 # 環境変数ファイル
 .env
 .env.local
